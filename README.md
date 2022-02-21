@@ -18,7 +18,8 @@ Ao clicar no botão "CLIQUE PARA GERAR" o background do site muda e também é g
 - HTML
 - CSS custom properties
 - CSS Flexbox
-- Glassmorphism 
+- Glassmorphism
+- Javascript 
 - Mobile-first workflow
 
 ## Author
