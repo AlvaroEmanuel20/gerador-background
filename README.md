@@ -10,8 +10,8 @@ Ao clicar no botão "CLIQUE PARA GERAR" o background do site muda e também é g
 
 ### Links
 
-- Link do repositório: [Add solution URL here](https://github.com/AlvaroEmanuel20/gerador-background)
-- Link da aplicação: [Add live site URL here](https://alvaroemanuel20.github.io/gerador-background/)
+- Link do repositório: [https://github.com/AlvaroEmanuel20/gerador-background](https://github.com/AlvaroEmanuel20/gerador-background)
+- Link da aplicação: [https://alvaroemanuel20.github.io/gerador-background/](https://alvaroemanuel20.github.io/gerador-background/)
 
 ### Ferramentas usadas
 
